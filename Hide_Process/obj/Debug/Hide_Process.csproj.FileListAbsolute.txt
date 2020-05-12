@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\01.Hide_Process-master\Hide_Process\bin\Debug\Hide_Process.exe.config
+C:\Users\Administrator\Desktop\01.Hide_Process-master\Hide_Process\bin\Debug\Hide_Process.exe
+C:\Users\Administrator\Desktop\01.Hide_Process-master\Hide_Process\bin\Debug\Hide_Process.pdb
+C:\Users\Administrator\Desktop\01.Hide_Process-master\Hide_Process\obj\Debug\Hide_Process.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\01.Hide_Process-master\Hide_Process\obj\Debug\Hide_Process.Form1.resources
+C:\Users\Administrator\Desktop\01.Hide_Process-master\Hide_Process\obj\Debug\Hide_Process.Properties.Resources.resources
+C:\Users\Administrator\Desktop\01.Hide_Process-master\Hide_Process\obj\Debug\Hide_Process.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\01.Hide_Process-master\Hide_Process\obj\Debug\Hide_Process.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\01.Hide_Process-master\Hide_Process\obj\Debug\Hide_Process.exe
+C:\Users\Administrator\Desktop\01.Hide_Process-master\Hide_Process\obj\Debug\Hide_Process.pdb
